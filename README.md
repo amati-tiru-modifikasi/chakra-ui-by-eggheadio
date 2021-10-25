@@ -13,3 +13,7 @@ yarn dev
 ## Source
 
 Sumber Utama bisa diakses dihalaman [ini](https://github.com/lazarnikolov94/egghead-getting-started-with-chakra-ui.git) 
+
+## Wakatime
+
+[![wakatime](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/47aef44e-6972-463a-b192-809198c2e396.svg)](https://wakatime.com/badge/user/68c213cd-13a4-4383-895c-d9fa85106cb4/project/47aef44e-6972-463a-b192-809198c2e396)
